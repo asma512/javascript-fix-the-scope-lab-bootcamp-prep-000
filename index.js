@@ -30,4 +30,4 @@ var funkyFunction = function(){
 
 
 
-var theFuk= funkyFunction()()
+var theFuk= funkyFunction()
